@@ -16,7 +16,7 @@ With this data, my goal was to analyze the fuel consumption by comparing the sta
 
 ###### Below is a guide to understand the data:
 
-Model – vehicle make and model
+Model – vehicle make and model<br>
 Displ – engine displacement in liters
 Cyl – number of engine cylinders
 Trans – transmission type plus number of gears

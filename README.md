@@ -11,8 +11,8 @@ DOT receives the manufacturers' fleet average fuel economy from EPA, and determi
 EPA provides IRS with the fuel economy data for vehicles which may be subject to the Gas Guzzler tax penalty. IRS is responsible for collecting those taxes from manufacturers. 
 
 With this data, my goal was to analyze the fuel consumption by comparing the statistics of 2008 and 2018 and thus I utlized only that portion of data which can be downloaded from the below links,
-2018 data: https://www.fueleconomy.gov/feg/EPAGreenGuide/Smartway/xls/SmartWay%20Vehicle%20List%20for%20MY%202018.xlsx
-2008 data: https://www.fueleconomy.gov/feg/EPAGreenGuide/Smartway/xls/SmartWay%20Vehicle%20List%20MY%202008.xls
+<li> 2018 data: https://www.fueleconomy.gov/feg/EPAGreenGuide/Smartway/xls/SmartWay%20Vehicle%20List%20for%20MY%202018.xlsx
+<li> 2008 data: https://www.fueleconomy.gov/feg/EPAGreenGuide/Smartway/xls/SmartWay%20Vehicle%20List%20MY%202008.xls
 
 ###### Below is a guide to understand the data:
 

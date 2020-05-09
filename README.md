@@ -16,52 +16,51 @@ With this data, my goal was to analyze the fuel consumption by comparing the sta
 
 ###### Below is a guide to understand the data:
 
-Model – vehicle make and model<br>
-Displ – engine displacement in liters
-Cyl – number of engine cylinders
-Trans – transmission type plus number of gears
- Auto - Automatic
- Man - Manual
- SemiAuto - Semi-Automatic
- SCV - Selectable Continuously Variable (e.g. CVT with paddles)
- AutoMan - Automated Manual
- AMS - Automated Manual-Selectable (e.g. Automated Manual with paddles)
- Other - Other
- CVT - Continuously Variable
- CM3 - Creeper/Manual 3-Speed
- CM4 - Creeper/Manual 4-Speed
- C4 - Creeper/Manual 4-Speed
- C5 - Creeper/Manual 5-Speed
- Auto-S2 - Semi-Automatic 2-Speed
- Auto-S3 - Semi-Automatic 3-Speed
- Auto-S4 - Semi-Automatic 4-Speed
- Auto-S5 - Semi-Automatic 5-Speed
- Auto-S6 - Semi-Automatic 6-Speed
- Auto-S7 - Semi-Automatic 7-Speed
-Drive – 2-wheel Drive, 4-wheel drive/all-wheel drive
-Fuel – fuel(s)
-Cert Region –
- CA - California
- CE - Calif. + NLEV (Northeast trading area)
- CF - Clean Fuel Vehicle
- CL - Calif. + NLEV (All states)
- FA - Federal All Altitude
- FC - Tier 2 Federal and Calif.
- NF - CFV + NLEV(ASTR) + Calif.
- NL - NLEV (All states)
-Stnd – vehicle emissions standard code. See Stnd Description.
+<li> Model – vehicle make and model<br>
+<li> Displ – engine displacement in liters<br>
+<li> Cyl – number of engine cylinders<br>
+<li> Trans – transmission type plus number of gears<br>
+ Auto - Automatic<br>
+ Man - Manual<br>
+ SemiAuto - Semi-Automatic<br>
+ SCV - Selectable Continuously Variable (e.g. CVT with paddles)<br>
+ AutoMan - Automated Manual<br>
+ AMS - Automated Manual-Selectable (e.g. Automated Manual with paddles)<br>
+ Other - Other<br>
+ CVT - Continuously Variable<br>
+ CM3 - Creeper/Manual 3-Speed<br>
+ CM4 - Creeper/Manual 4-Speed<br>
+ C4 - Creeper/Manual 4-Speed<br>
+ C5 - Creeper/Manual 5-Speed<br>
+ Auto-S2 - Semi-Automatic 2-Speed<br>
+ Auto-S3 - Semi-Automatic 3-Speed<br>
+ Auto-S4 - Semi-Automatic 4-Speed<br>
+ Auto-S5 - Semi-Automatic 5-Speed<br>
+ Auto-S6 - Semi-Automatic 6-Speed<br>
+ Auto-S7 - Semi-Automatic 7-Speed<br>
+<li> Drive – 2-wheel Drive, 4-wheel drive/all-wheel drive<br>
+<li> Fuel – fuel(s)<br>
+<li> Cert Region –<br>
+ CA - California<br><br>
+ CE - Calif. + NLEV (Northeast trading area)<br>
+ CF - Clean Fuel Vehicle<br><br>
+ CL - Calif. + NLEV (All states)<br>
+ FA - Federal All Altitude<br><br>
+ FC - Tier 2 Federal and Calif.<br>
+ NF - CFV + NLEV(ASTR) + Calif.<br>
+ NL - NLEV (All states)<br>
+<li> Stnd – vehicle emissions standard code. See Stnd Description.<br>
 Stnd Description – vehicle emissions standard description. See
-https://www.epa.gov/greenvehicles/federal-and-california-light-duty-vehicle-emissions-standards-airpollutants
-Underhood ID – engine family or test group ID. See
-http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore
-Veh Class – EPA vehicle class. See http://www.fueleconomy.gov/feg/findacarhelp.shtml#epaSizeClass
-Air Pollution Score (Smog Rating) – see
-http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore and
-https://www.epa.gov/greenvehicles/smog-rating
-City MPG – city fuel economy in miles per gallon
-Hwy MPG – highway fuel economy in miles per gallon
-Cmb MPG – combined city/highway fuel economy in miles per gallon
-Greenhouse Gas Score (Greenhouse Gas Rating) – see
-https://www.epa.gov/greenvehicles/greenhouse-gas-rating
-SmartWay – Yes, No, or Elite. See https://www.epa.gov/greenvehicles/consider-smartwayvehicle
-Comb CO2 – combined city/highway CO2 tailpipe emissions in grams per mile
+https://www.epa.gov/greenvehicles/federal-and-california-light-duty-vehicle-emissions-standards-airpollutants<br>
+<li> Underhood ID – engine family or test group ID. See
+http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore<br>
+<li> Veh Class – EPA vehicle class. See http://www.fueleconomy.gov/feg/findacarhelp.shtml#epaSizeClass<br>
+<li> Air Pollution Score (Smog Rating) – see
+http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore and https://www.epa.gov/greenvehicles/smog-rating<br>
+<li> City MPG – city fuel economy in miles per gallon<br>
+<li> Hwy MPG – highway fuel economy in miles per gallon<br>
+<li> Cmb MPG – combined city/highway fuel economy in miles per gallon<br>
+<li> Greenhouse Gas Score (Greenhouse Gas Rating) – see
+https://www.epa.gov/greenvehicles/greenhouse-gas-rating<br>
+<li> SmartWay – Yes, No, or Elite. See https://www.epa.gov/greenvehicles/consider-smartwayvehicle<br>
+<li> Comb CO2 – combined city/highway CO2 tailpipe emissions in grams per mile

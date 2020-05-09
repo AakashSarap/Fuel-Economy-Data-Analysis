@@ -43,7 +43,7 @@ With this data, my goal was to analyze the fuel consumption by comparing the sta
 <li> Cert Region –<br>
  CA - California<br>
  CE - Calif. + NLEV (Northeast trading area)<br>
- CF - Clean Fuel Vehicle<br><br>
+ CF - Clean Fuel Vehicle<br>
  CL - Calif. + NLEV (All states)<br>
  FA - Federal All Altitude<br>
  FC - Tier 2 Federal and Calif.<br>

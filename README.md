@@ -41,11 +41,11 @@ With this data, my goal was to analyze the fuel consumption by comparing the sta
 <li> Drive – 2-wheel Drive, 4-wheel drive/all-wheel drive<br>
 <li> Fuel – fuel(s)<br>
 <li> Cert Region –<br>
- CA - California<br><br>
+ CA - California<br>
  CE - Calif. + NLEV (Northeast trading area)<br>
  CF - Clean Fuel Vehicle<br><br>
  CL - Calif. + NLEV (All states)<br>
- FA - Federal All Altitude<br><br>
+ FA - Federal All Altitude<br>
  FC - Tier 2 Federal and Calif.<br>
  NF - CFV + NLEV(ASTR) + Calif.<br>
  NL - NLEV (All states)<br>
